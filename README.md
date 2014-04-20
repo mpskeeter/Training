@@ -1,4 +1,4 @@
 Training
 ========
 
-# NS State Free GutHub Workshop
+# NS State Free GitHub Workshop
